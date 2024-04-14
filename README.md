@@ -1,4 +1,6 @@
-[Yandex Metro](https://app.qase.io/public/report/ffea3a93a97e2a4b594a2679c80b7d7b7a7e36d5)
+[Yandex Metro 01](https://app.qase.io/public/report/ffea3a93a97e2a4b594a2679c80b7d7b7a7e36d5)
+
+[Yandex Metro 02](https://app.qase.io/public/report/229641cbf9e0cc8168b3f54d140ccbf776174135)
 
 [Aero Taxi](https://app.qase.io/public/report/512a4f0f4c1de559700ada99fbb564f08e8fb7a6)
 
