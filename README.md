@@ -1,3 +1,5 @@
+[Yandex Prilavok chek-list](https://docs.google.com/spreadsheets/d/1PW2svQP87FNOJBGYqrKUbZXmw52_EChXFNTQU2PYL8s/edit?usp=sharing)
+
 [Yandex Metro 01](https://app.qase.io/public/report/ffea3a93a97e2a4b594a2679c80b7d7b7a7e36d5)
 
 [Yandex Metro 02](https://app.qase.io/public/report/229641cbf9e0cc8168b3f54d140ccbf776174135)
